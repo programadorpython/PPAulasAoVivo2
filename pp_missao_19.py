@@ -19,21 +19,3 @@ while True:
             print("Voce pagara o valor cheio, 20 reais")
     else:
         break
-
-
-
-#
-# texto = "Digite sair para encerrar a compra"
-# texto += "\n - Entre com a idade do usuario --->  "
-#
-# mensagem = ''
-# while mensagem.lower() != 'sair':
-#     mensagem = input(texto)
-#     if mensagem.lower() != 'sair':
-#        if int(mensagem) <= 2:
-#           print('Menor que dois anos não paga a entrada')
-#        elif int(mensagem) <= 12:
-#           print('Esse usuário paga meia entrada, valor da meia entrada = R$10,00')
-#        elif int(mensagem) <= 59:
-#
-#
